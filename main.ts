@@ -26,6 +26,7 @@ title: "{{TITLE}}"
 authors:
 {{AUTHORS}}
 year: {{YEAR}}
+pdf: "[[{{PDF}}]]"
 url: {{URL}}
 tags:
 ---
